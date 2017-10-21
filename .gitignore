@@ -1,0 +1,3 @@
+ENV
+*.egg-info
+.ipynb_checkpoints
