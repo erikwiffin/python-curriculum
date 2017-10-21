@@ -3,6 +3,8 @@
 ## Installation Instructions
 
 ```
+git clone https://github.com/erikwiffin/python-curriculum.git
+cd python-curriculum
 python3 -m venv ENV
 source ENV/bin/activate
 pip install -e .
